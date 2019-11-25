@@ -1,2 +1,0 @@
-# ModeloCodeSandBoxLyra
-Created with CodeSandbox
